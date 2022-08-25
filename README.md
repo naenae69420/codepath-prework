@@ -1,10 +1,10 @@
 # codepath-prework
 Codepath prework project
 
-## NAME_OF_YOUR_APP_HERE
+## HELLOWORLD
 
 ### App Description
-`TODO://` Add app description
+`TODO://` Words showing "Hello from Nathan" changes color when pressing the "change text color" button
 
 ### App Walk-though
 `TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
